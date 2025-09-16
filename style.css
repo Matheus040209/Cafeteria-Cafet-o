@@ -7,7 +7,31 @@ body{
 }
 
 h1{
-    color:white;
-    background-color: rgb(156, 82, 22);
+    color:rgb(17, 17, 17);
+    background-color: rgb(156, 156, 150);
     padding:30px;
+    border-radius: 10px 10px 10px 10px;
 }
+
+nav{
+    background-color: rgb(156, 82, 22);
+    padding: 10px;
+}
+nav a{
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    background-color: rgb(156, 82, 22);
+    border-radius: 10px 10px 10px 10px;
+}
+
+a{
+    color: rgb(252, 248, 248);
+    background-color: rgb(156, 82, 22);
+    padding: 5px;
+    border-radius: 10px 10px 10px 10px;
+    text-decoration: none;
+
+}
+
+
