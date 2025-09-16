@@ -1,20 +1,13 @@
 body{
     background-color: rgb(245, 237, 237);
     text-align: center;
-    color: white;
+    color: rgb(20, 20, 20);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
     padding: 50px;
 }
 
 h1{
+    color:white;
     background-color: rgb(156, 82, 22);
     padding:30px;
-}
-
-p{
-    color: black;
-}
-
-ul{
-    color:black
 }
