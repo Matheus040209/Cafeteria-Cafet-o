@@ -3,13 +3,18 @@ body{
     text-align: center;
     color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    padding: 50px;
 }
 
 h1{
-    background-color: brown;
+    background-color: rgb(156, 82, 22);
     padding:30px;
 }
 
 p{
     color: black;
+}
+
+ul{
+    color:black
 }
