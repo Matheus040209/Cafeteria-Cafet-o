@@ -1,4 +1,2 @@
-# Cafeteria Cafetao
-
-Repositório para um site de Cafeteria
+# Cafeteria CMEU PAU NA SUA MAO
 
